@@ -9,7 +9,7 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
  
  👨‍💻 I’m currently working with <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> and <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"> 
  
-📄 I sometimes publish articles about blockchain development <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+📄 I sometimes publish articles about blockchain development <a href ="https://medium.com/@osepatrick.ehimen77"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  
 
 ![Profile views](https://gpvc.arturio.dev/Kasper-Otis)  <img src="https://img.shields.io/github/followers/Patrick-Ehimen?label=Follow" style=" float:left, margin-right:10px" />
