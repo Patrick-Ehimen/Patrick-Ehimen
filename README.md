@@ -25,7 +25,7 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasper-Otis&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Ehimen&show_icons=true&hide_border=true)
 
 ---
 
