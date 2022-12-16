@@ -9,7 +9,7 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
  
  👨‍💻 I’m currently working with <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> and <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"> 
  
-📄 I sometimes publish articles about blockchain development <a href ="https://medium.com/@osepatrick.ehimen77"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+📄 I sometimes publish articles about blockchain development. You can read them here <a href ="https://medium.com/@osepatrick.ehimen77"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  
 
 ![Profile views](https://gpvc.arturio.dev/Kasper-Otis)  <img src="https://img.shields.io/github/followers/Patrick-Ehimen?label=Follow" style=" float:left, margin-right:10px" />
@@ -22,7 +22,7 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 ---
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"><img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge"><img src="https://tinyurl.com/ys9yfcpw"><img src="https://tinyurl.com/mp2wu3xx">
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"><img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"><img src="https://tinyurl.com/ys9yfcpw"><img src="https://tinyurl.com/mp2wu3xx">
 
 ---
 
