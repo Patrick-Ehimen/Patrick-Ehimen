@@ -27,6 +27,7 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Ehimen&show_icons=true&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=raiyanmook27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Patrick-Ehimen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Ehimen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
