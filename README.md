@@ -41,5 +41,8 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 **Check the Repositories and don't forget to give a star.** 
