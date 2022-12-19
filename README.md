@@ -26,26 +26,22 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Ehimen&show_icons=true&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api?username=raiyanmook27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Patrick-Ehimen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Patrick-Ehimen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Ehimen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
+### Coding Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 ### You can find in me in the web 🌍
 <a href="https://www.linkedin.com/in/patrick-ehimen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@patrickEhimen-blue?style=flat&logo=linkedin"></a>
 
 <a href="mailto:osepatrick.ehimen77gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-osepatrick.ehimen77gmail.com-blue?style=flat&logo=gmail"></a>
 
 <br/>
-
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 **Check the Repositories and don't forget to give a star.** 
