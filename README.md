@@ -12,9 +12,6 @@ I'm always open to collaborating on web3 based projects and innovative/disruptiv
 📄 I sometimes publish articles about blockchain development. You can read them here <a href ="https://medium.com/@osepatrick.ehimen77"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  
 
-![Profile views](https://gpvc.arturio.dev/Kasper-Otis)  <img src="https://img.shields.io/github/followers/Patrick-Ehimen?label=Follow" style=" float:left, margin-right:10px" />
-
-
 ---
 
 
