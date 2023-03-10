@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/Patrick-Ehimen?logo=github&style=fo
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://metamask.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" style="max-width: 100%;"></a>
 <a href="https://www.arweave.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored-dark.svg" width="36" height="36" alt="Arweave" style="max-width: 100%;"></a>
-<a href="https://www.arweave.org/" rel="nofollow"><img src="https://www.svgrepo.com/svg/470684/solana" width="36" height="36" alt="Arweave" style="max-width: 100%;"></a>
+<a href="https://docs.solana.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/svg/470684/solana" width="36" height="36" alt="Rust" /></a>
 
 </p>
 
