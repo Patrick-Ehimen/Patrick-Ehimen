@@ -13,6 +13,7 @@ src="https://img.shields.io/github/followers/Patrick-Ehimen?logo=github&style=fo
  
 ## My Tech Stack
 <p align="left">
+ <a href="" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="36" height="36" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="36" height="36" alt="Solidity" /></a>
 <a href="https://github.com/rust-lang" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374056/rust.svg" width="36" height="36" alt="Rust" /></a>
