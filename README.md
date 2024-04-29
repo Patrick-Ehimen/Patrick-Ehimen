@@ -43,10 +43,13 @@
 
 </p>
 
-## My Socials
- <a href="https://www.linkedin.com/in/patrick-ehimen/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="max-width: 100%;"></a>
-<a href="https://hashnode.com/@Sithari" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" style="max-width: 100%;"></a>
- <a href="https://github.com/Patrick-Ehimen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-ehimen&show_icons=true&locale=en&layout=compact"
+    alt="patrick-ehimen"
+  />
+</p>
  
 ---
 
