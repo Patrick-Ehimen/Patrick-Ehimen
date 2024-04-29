@@ -8,9 +8,11 @@
 - I'm proficient in JavaScript, Solidity, TypeScript, React, Next.js, Node.js, ethers.js, Subgraphs, leveraging these skills to rapidly prototype and implement frontend dApps and web3 interfaces.
 - Currently learning and delving into Solana and the Skarknet Ecosystem.
 
-<a href="https://www.github.com/Patrick-Ehimen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Patrick-Ehimen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<a href=''><img src='https://img.shields.io/twitter/follow/:0xOse_eth' /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xose_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xose_eth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patrickehimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickehimen" height="30" width="40" /></a>
+</p>
 
  
 ## My Tech Stack
