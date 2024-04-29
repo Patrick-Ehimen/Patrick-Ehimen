@@ -1,8 +1,8 @@
 <img src="Borcelle12.jpeg" />
 <h1 align="left">
- Patrick Ehimen ||
+ Patrick Ehimen | Blockchain Engineer
 </h1>
-<h2><span style='color: purple' >Blockchain</span> Engineer</h2>
+
 
 - I'm an aspiring Smart contract developer and Auditor.
 - I'm committed to learning and staying up-to-date with the latest trends and advancements in blockchain technology.
