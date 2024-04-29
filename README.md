@@ -1,16 +1,16 @@
-<img src="Borcelle12.jpeg" height='420px' width='100%' />
+<img src="Borcelle12.jpeg" height='380px' width='100%' />
+<hr/>
 <h1 align="left">
  Patrick Ehimen | Blockchain Engineer
 </h1>
 
-
-- I'm an aspiring Smart contract developer and Auditor.
-- I'm committed to learning and staying up-to-date with the latest trends and advancements in blockchain technology.
-- I love and enjoy building projects that solve real-world problems and challenges. You can see the full list of projects i have built here: [Check Portfolio](https://github.com/Patrick-Ehimen)
-- Currently building and learning about smart contracts attack vectors.
+- I am a blockchain engineer with experience developing decentralized applications and smart contracts on EVM compartible3 blockchains. I have a strong understanding of blockchain and distributed systems which provides a solid foundation for designing complex blockchain architectures.
+- I'm proficient in JavaScript, Solidity, TypeScript, React, Next.js, Node.js, ethers.js, Subgraphs, leveraging these skills to rapidly prototype and implement frontend dApps and web3 interfaces.
+- Currently learning and delving into Solana and the Skarknet Ecosystem.
 
 <a href="https://www.github.com/Patrick-Ehimen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Patrick-Ehimen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href=''><img src='https://img.shields.io/twitter/follow/:0xOse_eth' /></a>
 
  
 ## My Tech Stack
