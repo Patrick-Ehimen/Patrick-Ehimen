@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGDyH4STCc/YeNvAr8XOvaESofi9e_aLw/view?utm_content=DAGDyH4STCc&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
+<img src="Borcelle12.jpeg" />
 <h1 align="center">
    Hello, I'm <a href="https://github.com/Patrick-Ehimen">Patrick<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
