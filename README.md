@@ -1,6 +1,6 @@
 <img src="Borcelle12.jpeg" />
-<h1 align="center">
-   Hello, I'm <a href="https://github.com/Patrick-Ehimen">Patrick<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+<h1 align="right">
+ Patrick Ose Ehimen | Blockchain Engineer
 </h1>
 
 - I'm an aspiring Smart contract developer and Auditor.
