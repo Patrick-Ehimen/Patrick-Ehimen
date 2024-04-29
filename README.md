@@ -1,6 +1,6 @@
 <img src="Borcelle12.jpeg" />
-<h1 align="right">
- Patrick Ose Ehimen | Blockchain Engineer
+<h1 align="left">
+ Patrick Ose Ehimen | <span style='color: #8c52ff' >Blockchain</span> Engineer
 </h1>
 
 - I'm an aspiring Smart contract developer and Auditor.
