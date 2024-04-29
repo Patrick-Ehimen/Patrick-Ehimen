@@ -7,6 +7,7 @@
 - I am a blockchain engineer with experience developing decentralized applications and smart contracts on EVM compartible3 blockchains. I have a strong understanding of blockchain and distributed systems which provides a solid foundation for designing complex blockchain architectures.
 - I'm proficient in JavaScript, Solidity, TypeScript, React, Next.js, Node.js, ethers.js, Subgraphs, leveraging these skills to rapidly prototype and implement frontend dApps and web3 interfaces.
 - Currently learning and delving into Solana and the Skarknet Ecosystem.
+- Contact me for any work or questions about blockchain development and solidity smart contracts.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
