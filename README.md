@@ -1,4 +1,4 @@
-<img src="Borcelle12.jpeg" height='500px' />
+<img src="Borcelle12.jpeg" height='300px' />
 <h1 align="left">
  Patrick Ehimen | Blockchain Engineer
 </h1>
