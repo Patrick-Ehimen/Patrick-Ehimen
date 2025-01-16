@@ -40,16 +40,10 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-ehimen&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-ehimen&show_icons=true&locale=en&layout=compact&theme=radical"
     alt="patrick-ehimen"
   />
 </p>
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Patrick-Ehimen&theme=dark&hide_border=false)<br/>
-
-
 
 ---
 
