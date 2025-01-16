@@ -36,16 +36,21 @@
 </p>
  
 ---
-
 <p>
+ 
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-ehimen&show_icons=true&theme=radical)
+
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-ehimen&show_icons=true&locale=en&layout=compact&theme=radical"
     alt="patrick-ehimen"
   />
-</p>
-
----
 
 ### Coding Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</p>
+
+
+
+
