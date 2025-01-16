@@ -9,12 +9,7 @@
 - Currently learning and delving into Solana and the Skarknet Ecosystem.
 - Contact me for any work or questions about blockchain development and solidity smart contracts.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xose_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xose_eth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patrickehimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickehimen" height="30" width="40" /></a>
-</p>
-<hr/>
+
 
  
 ## Language-Framework-Tools
