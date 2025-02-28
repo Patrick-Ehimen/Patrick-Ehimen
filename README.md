@@ -2,7 +2,7 @@
  Hi, I'm Patrick also know as 0xOse
 </h2>
 
-#### Full Stack Blockchain Engineer & Web3 Security Enthusiast
+#### Full Stack Blockchain Engineer & Web3 Security Enthusiast
 
 👨🏻‍💻 About Me:
 
