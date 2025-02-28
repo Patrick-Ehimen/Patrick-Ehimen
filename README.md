@@ -26,6 +26,8 @@ _Forging digital destinies in the blockchain frontier, I craft code that bridges
 
 🚀 Fuel The Decentralized Revolution 🚀
 
+<hr>
+
 </div>
 
 ## 🔧 Arsenal of Innovation
