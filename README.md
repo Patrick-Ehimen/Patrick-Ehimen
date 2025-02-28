@@ -2,7 +2,7 @@
  Hi, I'm Patrick also know as 0xOse
 </h2>
 
-Full Stack Engineer & Web3 Security Enthusiast
+#### Full Stack Blockchain Engineer & Web3 Security Enthusiast
 
 👨🏻‍💻 About Me:
 
@@ -20,6 +20,7 @@ I’ve contributed to diverse projects, from developing decentralized applicatio
 I’m actively seeking opportunities that will allow me to leverage my full stack expertise and passion for secure, innovative technologies.
 
 <div align="center">
+<hr>
 
 _Forging digital destinies in the blockchain frontier, I craft code that bridges worlds and reshapes reality. My mission? To build decentralized systems that empower humanity beyond imagination._
 
@@ -31,44 +32,14 @@ _Forging digital destinies in the blockchain frontier, I craft code that bridges
 
 Behold the cutting-edge technologies at my command:
 
-### Blockchain & Web3
-
-- Ethereum & EVM-compatible chains
-- Solana & Starknet
-- Layer 2 solutions (Base, Optimism, Arbitrum)
-- IPFS & Filecoin
-
-### Smart Contract Development
-
-- Solidity (Advanced patterns & Gas optimization)
-- Rust for Solana
-- Foundry (Testing & Deployment)
-- Hardhat
-
-### Frontend Web3 Integration
-
-- viem.sh
-- ethers.js
-- web3.js
-- @solana/web3.js
-
-### Languages & Frameworks
-
-- TypeScript
-- Rust
-- Next.js & React
-- Node.js
-
-### Development Tools
-
-- Git & GitHub Actions
-- Docker
-
-### DeFi Protocols
-
-- Uniswap v3
-- Aave
-- Compound
+| Category                   | Technologies                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Blockchain & Web3          | Ethereum & EVM-compatible chains, Solana & Starknet, Layer 2 solutions (Base, Optimism, Arbitrum), IPFS & Filecoin |
+| Smart Contract Development | Solidity (Advanced patterns & Gas optimization), Rust for Solana, Foundry (Testing & Deployment), Hardhat          |
+| Frontend Web3 Integration  | viem.sh, ethers.js, web3.js, @solana/web3.js                                                                       |
+| Languages & Frameworks     | TypeScript, Rust, Next.js & React, Node.js                                                                         |
+| Development Tools          | Git & GitHub Actions, Docker                                                                                       |
+| DeFi Protocols             | Uniswap v3, Aave, Compound                                                                                         |
 
 ---
 
