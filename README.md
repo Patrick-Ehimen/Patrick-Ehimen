@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
  Patrick Ehimen | Blockchain Engineer
 </h1>
 <div>
@@ -9,7 +9,7 @@
 
 _Forging digital destinies in the blockchain frontier, I craft code that bridges worlds and reshapes reality. My mission? To build decentralized systems that empower humanity beyond imagination._
 
-[🌟 Fuel The Decentralized Revolution 🌟](#)
+[🌟 Fuel The Decentralized Revolution 🌟]()
 
 </div>
 
