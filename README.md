@@ -30,7 +30,7 @@ _Forging digital destinies in the blockchain frontier, I craft code that bridges
 
 </div>
 
-## 🔧 Arsenal of Innovation
+### 🔧 Arsenal of Innovation
 
 Behold the cutting-edge technologies at my command:
 
