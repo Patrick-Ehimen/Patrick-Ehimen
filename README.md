@@ -1,5 +1,5 @@
 <h2 align="left">
- Hi, I'm Patrick also know as 0xOse
+ Hi, I'm Patrick also known as 0xOse
 </h2>
 
 #### Full Stack Blockchain Engineer & Web3 Security Enthusiast
