@@ -1,6 +1,7 @@
-<h2 align="left">
- Hi, I'm Patrick also know as 0xOse
-</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Patrick" alt="Typing SVG" /></a>
+</div>
 
 #### Full Stack Blockchain Engineer & Web3 Security Enthusiast
 
@@ -46,7 +47,7 @@ Behold the cutting-edge technologies at my command:
 ---
 
 <p>
- 
+
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrick-ehimen&show_icons=true&theme=radical)
 
 <img
@@ -56,3 +57,5 @@ Behold the cutting-edge technologies at my command:
   />
 
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
