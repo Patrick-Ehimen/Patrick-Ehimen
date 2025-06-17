@@ -37,12 +37,12 @@ Behold the cutting-edge technologies at my command:
 
 | Category                   | Technologies                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Blockchain & Web3          | Ethereum & EVM-compatible chains, Solana & Starknet, Layer 2 solutions (Base, Optimism, Arbitrum), IPFS & Filecoin |
+| Blockchain & Web3          | Ethereum & EVM-compatible chains, Solana & Starknet Ecosystem, Layer 2 solutions (Base, Optimism, Arbitrum), IPFS & Filecoin |
 | Smart Contract Development | Solidity (Advanced patterns & Gas optimization), Rust for Solana, Foundry (Testing & Deployment), Hardhat          |
 | Frontend Web3 Integration  | viem.sh, ethers.js, web3.js, @solana/web3.js                                                                       |
-| Languages & Frameworks     | TypeScript, Rust, Next.js & React, Node.js                                                                         |
+| Languages & Frameworks     | TypeScript, Rust, Next.js & React, Node.js, Anchor                                                                         |
 | Development Tools          | Git & GitHub Actions, Docker                                                                                       |
-| DeFi Protocols             | Uniswap v3, Aave, Compound                                                                                         |
+| DeFi Protocols             | Uniswap v3, Aave, Compound,Lido                                                                                        |
 
 ---
 
