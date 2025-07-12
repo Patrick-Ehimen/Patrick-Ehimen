@@ -7,19 +7,18 @@
 
 👨🏻‍💻 About Me:
 
-I’m a Full Stack Engineer with a strong foundation in both modern web development and blockchain technology. With hands-on experience in developing scalable, secure applications across the stack, I excel at creating seamless user experiences backed by robust, secure back-end systems.
+I’m a Full Stack Blockcain Engineer with a strong foundation in both modern web development and blockchain technology. With hands-on experience in developing decentralised applications (DApps), I excel at creating seamless user interface while integrating smart contracts to the frontend.
 
 Core Competencies:
 
 - Full Stack Development: Building responsive front-end interfaces and scalable back-end solutions.
-- Blockchain & Smart Contracts: Developing on EVM-based platforms and integrating blockchain protocols (e.g., Chainlink, Pyth Network).
-- Testing & Security: Implementing unit tests, continuous integration, and performing comprehensive security reviews.
+- Blockchain & Smart Contracts: Developing on EVM-based platforms and integrating blockchain protocols (e.g., Uniswap, Chainlink, Jupiter, etc).
+- Testing & Security: Implementing unit tests, fuzz and invariant testing, continuous integration, and performing comprehensive security reviews.
 - Web3 Integration: Merging traditional web technologies with innovative decentralized solutions.
 
 I’ve contributed to diverse projects, from developing decentralized applications and APIs to integrating blockchain protocols, ensuring that security and performance are at the forefront of every solution. My experience spans across different domains, allowing me to bring a holistic approach to full stack development.
 
 I’m actively seeking opportunities that will allow me to leverage my full stack expertise and passion for secure, innovative technologies.
-
 <div align="center">
 <hr>
 
