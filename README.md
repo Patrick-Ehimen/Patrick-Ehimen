@@ -12,7 +12,7 @@ I’m a Full Stack Blockcain Engineer with a strong foundation in both modern we
 Core Competencies:
 
 - Full Stack Development: Building responsive front-end interfaces and scalable back-end solutions.
-- Blockchain & Smart Contracts: Developing on EVM-based platforms and integrating blockchain protocols (e.g., Uniswap, Chainlink, Jupiter, etc).
+- Blockchain & Smart Contracts: Developing on EVM-based platforms and integrating blockchain protocols (e.g., Uniswap, Compound, Chainlink, Jupiter, etc).
 - Testing & Security: Implementing unit tests, fuzz and invariant testing, continuous integration, and performing comprehensive security reviews.
 - Web3 Integration: Merging traditional web technologies with innovative decentralized solutions.
 
@@ -37,11 +37,11 @@ Behold the cutting-edge technologies at my command:
 | Category                   | Technologies                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Blockchain & Web3          | Ethereum & EVM-compatible chains, Solana & Starknet Ecosystem, Layer 2 solutions (Base, Optimism, Arbitrum), IPFS & Filecoin |
-| Smart Contract Development | Solidity (Advanced patterns & Gas optimization), Rust for Solana, Foundry (Testing & Deployment), Hardhat          |
+| Smart Contract Development | Solidity (Advanced patterns & Gas optimization), Rust for Solana, Foundry (Testing & Deployment), Hardhat & Anchor          |
 | Frontend Web3 Integration  | viem.sh, ethers.js, web3.js, @solana/web3.js                                                                       |
-| Languages & Frameworks     | TypeScript, Rust, Next.js & React, Node.js, Anchor                                                                         |
+| Languages & Frameworks     | TypeScript, Rust, Solidity, Next.js & React, Node.js, Express.js                                                                            |
 | Development Tools          | Git & GitHub Actions, Docker                                                                                       |
-| DeFi Protocols             | Uniswap v3, Aave, Compound,Lido                                                                                        |
+| DeFi Protocols             | Uniswap v3, Aave, Compound, Lido, Jupiter, Chainlink                                                                                        |
 
 ---
 
