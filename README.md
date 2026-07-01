@@ -53,9 +53,9 @@ a complete and detailed list of all my oss contributions can be found [here](htt
 
 ###
 <br>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patrick-ehimen&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick-ehimen&show_icons=true&locale=en&layout=compact&theme=radical" height="180em" />
-</p>
+</p> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=70&section=footer"/>
